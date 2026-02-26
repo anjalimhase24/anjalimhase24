@@ -79,7 +79,7 @@ Currently focusing on Full-Stack Development and building real-world academic pr
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=anjalimhase24&theme=tokyonight)
 
-![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjalimhase24&show_icons=true&theme=tokyonight)
+![Anjali's GitHub stats](./github-user-contribution%20(1).svg)
 
 ---
 
