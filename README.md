@@ -81,7 +81,6 @@ Currently focusing on Full-Stack Development and building real-world academic pr
 
 ![Anjali's GitHub stats](./github-user-contribution%20(1).svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vishakhamokate13&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
